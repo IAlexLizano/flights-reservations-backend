@@ -3,8 +3,23 @@
   "WorkspaceRootPath": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|solutionrelative:role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73707EC1-7F5F-4CCD-9EAD-38B5DD372AF9}|..\\UTA.FISEI.FlightsReservations.WcfService\\UTA.FISEI.FlightsReservations.WcfService.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.wcfservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +29,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Role.cs",
+              "RelativeDocumentMoniker": "Role.cs",
+              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Role.cs",
+              "RelativeToolTip": "Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T01:36:19.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T01:35:33.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T01:34:12.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.WcfService\\Web.config",
+              "RelativeDocumentMoniker": "..\\UTA.FISEI.FlightsReservations.WcfService\\Web.config",
+              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.WcfService\\Web.config",
+              "RelativeToolTip": "..\\UTA.FISEI.FlightsReservations.WcfService\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-28T01:20:06.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
               "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T19:01:51.583Z",
               "EditorCaption": ""
