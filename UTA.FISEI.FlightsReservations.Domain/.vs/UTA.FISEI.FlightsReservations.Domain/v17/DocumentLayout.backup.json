@@ -3,23 +3,28 @@
   "WorkspaceRootPath": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.domain\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|solutionrelative:role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5EF803B-6DD9-4DE3-8D04-DAB60940FC54}|..\\UTA.FISEI.FlightsReservations.Repository\\UTA.FISEI.FlightsReservations.Repository.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.domain\\dtos\\reservationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|solutionrelative:dtos\\reservationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABFCB409-8A4A-4709-816D-8BA2FFDE0FDB}|..\\UTA.FISEI.FlightsReservations.Facade\\UTA.FISEI.FlightsReservations.Facade.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.facade\\reservationfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73707EC1-7F5F-4CCD-9EAD-38B5DD372AF9}|..\\UTA.FISEI.FlightsReservations.WcfService\\UTA.FISEI.FlightsReservations.WcfService.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.wcfservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.domain\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A652735-83B9-41B2-A487-55D182CCCCA5}|UTA.FISEI.FlightsReservations.Domain.csproj|solutionrelative:paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E421D2E9-D7C6-47EA-A0C6-53EF588273BD}|..\\UTA.FISEI.FlightsReservations.Implementation\\UTA.FISEI.FlightsReservations.Implementation.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservations.implementation\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B160C5C3-53D8-474D-BEF7-0D015E9AE445}|..\\UTA.FISEI.FlightsReservation.Contract\\UTA.FISEI.FlightsReservations.Contract.csproj|c:\\development\\app-distribuidas\\project\\flight-backend\\uta.fisei.flightsreservation.contract\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,71 +34,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Role.cs",
-              "RelativeDocumentMoniker": "Role.cs",
-              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Role.cs",
-              "RelativeToolTip": "Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment.cs",
+              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Payment.cs",
+              "RelativeToolTip": "Payment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T01:36:19.063Z",
+              "WhenOpened": "2025-01-08T03:57:23.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Client.cs",
-              "RelativeDocumentMoniker": "Client.cs",
-              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Client.cs",
-              "RelativeToolTip": "Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Implementation\\ReservationService.cs",
+              "RelativeDocumentMoniker": "..\\UTA.FISEI.FlightsReservations.Implementation\\ReservationService.cs",
+              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Implementation\\ReservationService.cs",
+              "RelativeToolTip": "..\\UTA.FISEI.FlightsReservations.Implementation\\ReservationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T01:35:33.843Z",
+              "WhenOpened": "2025-01-08T03:40:59.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\User.cs",
-              "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\User.cs",
-              "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBYAAAAFAAAAAAAAAA==",
+              "Title": "ReservationFacade.cs",
+              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Facade\\ReservationFacade.cs",
+              "RelativeDocumentMoniker": "..\\UTA.FISEI.FlightsReservations.Facade\\ReservationFacade.cs",
+              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Facade\\ReservationFacade.cs",
+              "RelativeToolTip": "..\\UTA.FISEI.FlightsReservations.Facade\\ReservationFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T01:34:12.652Z",
+              "WhenOpened": "2025-01-08T03:40:06.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.WcfService\\Web.config",
-              "RelativeDocumentMoniker": "..\\UTA.FISEI.FlightsReservations.WcfService\\Web.config",
-              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.WcfService\\Web.config",
-              "RelativeToolTip": "..\\UTA.FISEI.FlightsReservations.WcfService\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-28T01:20:06.404Z",
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "PaymentMethod.cs",
+              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\PaymentMethod.cs",
+              "RelativeToolTip": "PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:32:33.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationResponse.cs",
+              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\dtos\\ReservationResponse.cs",
+              "RelativeDocumentMoniker": "dtos\\ReservationResponse.cs",
+              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\dtos\\ReservationResponse.cs",
+              "RelativeToolTip": "dtos\\ReservationResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:24:21.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Domain\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Repository\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "..\\UTA.FISEI.FlightsReservations.Repository\\ReservationRepository.cs",
+              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservations.Repository\\ReservationRepository.cs",
+              "RelativeToolTip": "..\\UTA.FISEI.FlightsReservations.Repository\\ReservationRepository.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAuwIYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T19:01:51.583Z",
+              "WhenOpened": "2025-01-07T16:35:50.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservation.Contract\\IReservationService.cs",
+              "RelativeDocumentMoniker": "..\\UTA.FISEI.FlightsReservation.Contract\\IReservationService.cs",
+              "ToolTip": "C:\\development\\app-distribuidas\\project\\flight-backend\\UTA.FISEI.FlightsReservation.Contract\\IReservationService.cs",
+              "RelativeToolTip": "..\\UTA.FISEI.FlightsReservation.Contract\\IReservationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:40:26.027Z",
               "EditorCaption": ""
             }
           ]

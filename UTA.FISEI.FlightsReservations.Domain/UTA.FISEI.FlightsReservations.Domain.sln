@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTA.FISEI.FlightsReservatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTA.FISEI.FlightsReservations.Implementation", "..\UTA.FISEI.FlightsReservations.Implementation\UTA.FISEI.FlightsReservations.Implementation.csproj", "{E421D2E9-D7C6-47EA-A0C6-53EF588273BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTA.FISEI.FlightsReservation.Contract", "..\UTA.FISEI.FlightsReservation.Contract\UTA.FISEI.FlightsReservation.Contract.csproj", "{B160C5C3-53D8-474D-BEF7-0D015E9AE445}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTA.FISEI.FlightsReservations.Contract", "..\UTA.FISEI.FlightsReservation.Contract\UTA.FISEI.FlightsReservations.Contract.csproj", "{B160C5C3-53D8-474D-BEF7-0D015E9AE445}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTA.FISEI.FlightsReservations.WcfService", "..\UTA.FISEI.FlightsReservations.WcfService\UTA.FISEI.FlightsReservations.WcfService.csproj", "{73707EC1-7F5F-4CCD-9EAD-38B5DD372AF9}"
 EndProject

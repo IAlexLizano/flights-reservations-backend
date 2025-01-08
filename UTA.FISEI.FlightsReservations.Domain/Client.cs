@@ -23,6 +23,6 @@ namespace UTA.FISEI.FlightsReservations.Domain
         [DataMember]
         public DateTime registrationDate { get; set; }
         [DataMember]
-        public int userId { get; set; }
+        public User userId { get; set; }
     }
 }
