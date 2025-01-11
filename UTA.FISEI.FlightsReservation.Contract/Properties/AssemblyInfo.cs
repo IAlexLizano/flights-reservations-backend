@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UTA.FISEI.FlightsReservation.Contract")]
+[assembly: AssemblyTitle("UTA.FISEI.FlightsReservations.Contract")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("UTA.FISEI.FlightsReservation.Contract")]
+[assembly: AssemblyProduct("UTA.FISEI.FlightsReservations.Contract")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
