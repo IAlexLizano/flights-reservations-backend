@@ -12,7 +12,6 @@ C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservat
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\Microsoft.IdentityModel.Logging.dll
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\Microsoft.IdentityModel.Tokens.dll
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\System.Buffers.dll
-C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\System.Memory.dll
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\System.Numerics.Vectors.dll
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
@@ -27,7 +26,6 @@ C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservat
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\Microsoft.IdentityModel.Logging.xml
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\Microsoft.IdentityModel.Tokens.xml
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\System.Buffers.xml
-C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\System.Memory.xml
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\System.Numerics.Vectors.xml
 C:\development\app-distribuidas\project\flight-backend\UTA.FISEI.FlightsReservations.Domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
